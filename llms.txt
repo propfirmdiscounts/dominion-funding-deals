@@ -1,0 +1,8 @@
+# Dominion Funding Discount Codes
+
+This dataset tracks historical deal observations for Dominion Funding from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD5PC (5%)
+Works any time on all Dominion Funding challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
