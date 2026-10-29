@@ -72,4 +72,4 @@ This repository tracks all historical deals for **Dominion Funding** published o
 
 ---
 
-Last synced: 2026-10-29T02:05:11Z (auto, hourly)
+Last synced: 2026-10-29T06:31:04Z (auto, hourly)
