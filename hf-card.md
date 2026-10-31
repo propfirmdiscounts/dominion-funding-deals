@@ -1,45 +1,66 @@
 ---
 license: other
+pretty_name: Dominion Funding Discount Code
 configs:
 - config_name: dominion-funding-deals
   data_files:
   - split: data
     path: datasets/dominion-funding-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - dominion-funding
 ---
 
-# Dominion Funding - Discount Codes & Deal History
+# Dominion Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-16, the verified Dominion Funding discount code is **PFD5PC** — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/dominion-funding/
+> Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
+>
+> — Dominion Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dominionfunding.trade)
 
-**Verified exclusive discount code:** PFD5PC (works any time; live rate always on prop firm page)
+- Code: PFD5PC
+- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-16
+- Trustpilot: 2.9/5 (289 reviews)
+- Activate: https://propfirmdiscount.com/go/dominionfunding
+- Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD5PC** to get **5% off** on Dominion Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Dominion Funding evaluation accounts.
+## Current Dominion Funding deal: 20% Off Evaluation Account Purchase Costs
+
+- Published: 2026-10-16
+- Offer ends: Limited time
+- Offer: 20% off
+- Scope: All Accounts, 1-Step Lite, 25K, 50K, 100K
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/
+
+## Dominion Funding discount code FAQ
+
+**What is the Dominion Funding discount code?**
+
+PFD5PC. It is verified by PropFirmDiscount.com and takes up to 5% off Dominion Funding challenges and accounts.
+
+**Does the Dominion Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Dominion Funding deal?**
+
+**20% Off Evaluation Account Purchase Costs** — published 2026-10-16. Offer ends: Limited time. The offer is 20% off.
 
 ---
 
-## Latest Deal
-
-### Dominion Funding - 20% Off Evaluation Account Purchase Costs
-
-**Published:** 2026-10-16  
-**Offer ends:** Limited time  
-**Discount:** 20% off  
-**Scope:** All Accounts, 1-Step Lite, 25K, 50K, 100K  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **22**
 
@@ -77,19 +98,20 @@ Total deals tracked: **22**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Dominion Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Dominion Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/dominion-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/dominion-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
