@@ -21,10 +21,6 @@ tags:
 
 As of 2026-10-16, the verified Dominion Funding discount code is PFD5PC — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-> Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
->
-> — Dominion Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dominionfunding.trade)
-
 - Code: PFD5PC
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
