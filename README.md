@@ -1,6 +1,6 @@
 # Dominion Funding - Discount Codes & Deal History
 
-As of 2026-10-16, the verified Dominion Funding discount code is PFD5PC — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-05, the verified Dominion Funding discount code is PFD5PC — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
 >
@@ -9,21 +9,22 @@ As of 2026-10-16, the verified Dominion Funding discount code is PFD5PC — up t
 - Code: PFD5PC
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-16
+- Last deal published: 2026-11-05
 - Trustpilot: 2.8/5 (290 reviews)
 - Activate: https://propfirmdiscount.com/go/dominionfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Dominion Funding deal: 20% Off Evaluation Account Purchase Costs
+## Current Dominion Funding deal: Black Friday 40% Off Evaluations + Free Account
 
-- Published: 2026-10-16
+- Published: 2026-11-05
 - Offer ends: Limited time
-- Offer: 20% off
-- Scope: All Accounts, 1-Step Lite, 25K, 50K, 100K
+- Offer: 40% off
+- Event: Black Friday
+- Scope: All Evaluations, Every Program, Every Platform
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/
+- Deal page: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
 
 ## Dominion Funding discount code FAQ
 
@@ -37,18 +38,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Dominion Funding deal?**
 
-**20% Off Evaluation Account Purchase Costs** — published 2026-10-16. Offer ends: Limited time. The offer is 20% off.
+**Black Friday 40% Off Evaluations + Free Account** — published 2026-11-05. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **22**
+Total deals tracked: **23**
 
-### 2026 (14 deals)
+### 2026 (15 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-05 | Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
 | 2026-10-16 | 20% Off Evaluation Account Purchase Costs | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
 | 2026-10-06 | 30% Off All Accounts During Platform Launch | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
 | 2026-09-21 | 30% Off Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) |

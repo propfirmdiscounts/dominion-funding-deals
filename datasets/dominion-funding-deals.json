@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13161,
+    "title": "Black Friday 40% Off Evaluations + Free Account",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "All Evaluations, Every Program, Every Platform"
+    ],
+    "date_published": "2026-11-05",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-05",
+    "post_url": "https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/",
+    "prop_firm": "Dominion Funding",
+    "prop_firm_slug": "dominion-funding",
+    "standing_code": "PFD5PC",
+    "standing_discount": "5%",
+    "activation_link": "https://propfirmdiscount.com/go/dominionfunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/dominion-funding/"
+  },
+  {
     "deal_id": 12921,
     "title": "20% Off Evaluation Account Purchase Costs",
     "offer_type": "coupon",
