@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: dominionfunding
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: dominion-funding
   DEALSTORE_ID: 192
   FIRM_NAME: Dominion Funding
