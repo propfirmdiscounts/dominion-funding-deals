@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: dominion-funding-discount-codes
+  HF_NAMESPACE: dominionfunding
+  HF_REPO_NAME: dominion-funding-deals
   FIRM_SLUG: dominion-funding
   DEALSTORE_ID: 192
   FIRM_NAME: Dominion Funding
