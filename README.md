@@ -52,7 +52,7 @@ Total deals tracked: **23**
 |---|---|---|---|---|---|
 | 2026-11-05 | Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
 | 2026-10-16 | 20% Off Evaluation Account Purchase Costs | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
-| 2026-10-06 | 30% Off All Accounts During Platform Launch | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
+| 2026-10-06 | 30% Off All Accounts During Platform Launch | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
 | 2026-09-21 | 30% Off Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) |
 | 2026-09-02 | 35% Off All Accounts Upfront Fee | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) |
 | 2026-07-13 | 15% Off Challenge Pricing Plus Secondary Account | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-off-additional-account/) |
