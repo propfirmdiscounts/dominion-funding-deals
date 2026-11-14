@@ -1,13 +1,13 @@
 # Dominion Funding - Discount Codes & Deal History
 
-As of 2026-11-05, the verified Dominion Funding discount code is PFD5PC — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified Dominion Funding discount code is PFD5PC — 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
 >
 > — Dominion Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dominionfunding.trade)
 
 - Code: PFD5PC
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
 - Trustpilot: 2.8/5 (292 reviews)
@@ -30,7 +30,7 @@ As of 2026-11-05, the verified Dominion Funding discount code is PFD5PC — up t
 
 **What is the Dominion Funding discount code?**
 
-PFD5PC. It is verified by PropFirmDiscount.com and takes up to 5% off Dominion Funding challenges and accounts.
+PFD5PC. It is verified by PropFirmDiscount.com and takes 5% off Dominion Funding challenges and accounts.
 
 **Does the Dominion Funding discount code expire?**
 
@@ -50,34 +50,34 @@ Total deals tracked: **23**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-05 | Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
-| 2026-10-16 | 20% Off Evaluation Account Purchase Costs | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
-| 2026-10-06 | 30% Off All Accounts During Platform Launch | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
-| 2026-09-21 | 30% Off Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) |
-| 2026-09-02 | 35% Off All Accounts Upfront Fee | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) |
-| 2026-07-13 | 15% Off Challenge Pricing Plus Secondary Account | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-off-additional-account/) |
-| 2026-04-28 | 15% Off All Trading Challenges and Account Types | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-discount-all-accounts/) |
-| 2026-04-03 | 25% Off All Upfront Entry Costs | 25% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-25-off-easter/) |
-| 2026-03-25 | 1.5x Payout Guarantee for 48-Hour Processing Delays | 1.5x Payout | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-48-hour-payout-guarantee/) |
-| 2026-03-17 | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | 20% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) |
-| 2026-03-06 | 15% Off All Evaluation and Instant Accounts Challenge Pricing | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/15-percent-off-all-accounts-2/) |
-| 2026-02-13 | Valentine's Day: 30% Off Instant & Swing Challenge Pricing | 30% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-valentines-day-30-off-instant-swing/) |
-| 2026-02-02 | $100k Challenge Price $509.15 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-100k-account-discount/) |
-| 2026-02-02 | $7.5k Challenge Entry Fee $67.15 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-7500-account-discount/) |
-| 2026-01-26 | Save 25% on All Account Purchase Costs Including Instant Funding | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-25-percent-off-all-accounts/) |
+| 2026-11-05 | Dominion Funding: Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
+| 2026-10-16 | Dominion Funding: 20% Off Evaluation Account Purchase Costs | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
+| 2026-10-06 | Dominion Funding: 30% Off All Accounts During Platform Launch | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
+| 2026-09-21 | Dominion Funding: 30% Off Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) |
+| 2026-09-02 | Dominion Funding: 35% Off All Accounts Upfront Fee | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) |
+| 2026-07-13 | Dominion Funding: 15% Off Challenge Pricing Plus Secondary Account | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-off-additional-account/) |
+| 2026-04-28 | Dominion Funding: 15% Off All Trading Challenges and Account Types | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-discount-all-accounts/) |
+| 2026-04-03 | Dominion Funding: 25% Off All Upfront Entry Costs | 25% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-25-off-easter/) |
+| 2026-03-25 | Dominion Funding: 1.5x Payout Guarantee for 48-Hour Processing Delays | 1.5x Payout | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-48-hour-payout-guarantee/) |
+| 2026-03-17 | Dominion Funding: 20% Off All Challenge Fees - St. Patrick’s Day Promotion | 20% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) |
+| 2026-03-06 | Dominion Funding: 15% Off All Evaluation and Instant Accounts Challenge Pricing | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/15-percent-off-all-accounts-2/) |
+| 2026-02-13 | Dominion Funding: Valentine's Day: 30% Off Instant & Swing Challenge Pricing | 30% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-valentines-day-30-off-instant-swing/) |
+| 2026-02-02 | Dominion Funding: $100k Challenge Price $509.15 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-100k-account-discount/) |
+| 2026-02-02 | Dominion Funding: $7.5k Challenge Entry Fee $67.15 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-7500-account-discount/) |
+| 2026-01-26 | Dominion Funding: Save 25% on All Account Purchase Costs Including Instant Funding | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-25-percent-off-all-accounts/) |
 
 ### 2025 (8 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-27 | Christmas Offer: 30% OFF All Accounts & Temporary Sizes | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-christmas-offer-30-off/) |
-| 2025-12-08 | 7.5K Challenge Offer: Start for Only $68 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-7-5k-challenge-68-offer/) |
-| 2025-12-01 | Cyber Monday Sale: 30% Off All Accounts | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-cyber-monday-30-off/) |
-| 2025-11-28 | Black Friday Sale: 30% OFF All Accounts | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-everything/) |
-| 2025-11-17 | Black Friday — 30% OFF All Accounts (Challenge & Instant Funding) | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-all-accounts/) |
-| 2025-10-28 | Halloween: 15% OFF Funding on $7.5K & $100K Accounts | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-15-off-funding-on-7-5k-100k-accounts/) |
-| 2025-10-27 | Halloween Deal (no coupon required): 20% OFF on All Challenges, Oct 25–31 | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-20-off-all-challenges-oct-25-31/) |
-| 2025-10-16 | 24-Hour Flash: 15% OFF Funding (All Traders) | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-24h-flash-15-off-funding/) |
+| 2025-12-27 | Dominion Funding: Christmas Offer: 30% OFF All Accounts & Temporary Sizes | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-christmas-offer-30-off/) |
+| 2025-12-08 | Dominion Funding: 7.5K Challenge Offer: Start for Only $68 | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-7-5k-challenge-68-offer/) |
+| 2025-12-01 | Dominion Funding: Cyber Monday Sale: 30% Off All Accounts | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-cyber-monday-30-off/) |
+| 2025-11-28 | Dominion Funding: Black Friday Sale: 30% OFF All Accounts | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-everything/) |
+| 2025-11-17 | Dominion Funding: Black Friday — 30% OFF All Accounts (Challenge & Instant Funding) | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-all-accounts/) |
+| 2025-10-28 | Dominion Funding: Halloween: 15% OFF Funding on $7.5K & $100K Accounts | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-15-off-funding-on-7-5k-100k-accounts/) |
+| 2025-10-27 | Dominion Funding: Halloween Deal (no coupon required): 20% OFF on All Challenges, Oct 25–31 | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-20-off-all-challenges-oct-25-31/) |
+| 2025-10-16 | Dominion Funding: 24-Hour Flash: 15% OFF Funding (All Traders) | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-24h-flash-15-off-funding/) |
 
 ---
 
