@@ -10,11 +10,12 @@ As of 2026-11, the verified Dominion Funding discount code is PFD5PC — 5% OFF,
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
-- Trustpilot: 2.8/5 (292 reviews)
-- Activate: https://propfirmdiscount.com/go/dominionfunding
-- Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [2.8/5 (292 reviews)](https://www.trustpilot.com/review/dominionfunding.trade)
+- GitHub repository: [https://github.com/propfirmdiscounts/dominion-funding-deals](https://github.com/propfirmdiscounts/dominion-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/dominionfunding](https://propfirmdiscount.com/go/dominionfunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Dominion Funding deal: Black Friday 40% Off Evaluations + Free Account
 
@@ -24,7 +25,7 @@ As of 2026-11, the verified Dominion Funding discount code is PFD5PC — 5% OFF,
 - Event: Black Friday
 - Scope: All Evaluations, Every Program, Every Platform
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
+- Deal page: [https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/)
 
 ## Dominion Funding discount code FAQ
 
@@ -85,9 +86,9 @@ Total deals tracked: **23**
 
 This repository mirrors every deal **Dominion Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/dominion-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/dominion-funding-deals.json`
 
