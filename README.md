@@ -1,4 +1,4 @@
-# Dominion Funding - Discount Codes & Deal History
+# Dominion Funding Discount Code & Deal History
 
 As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday 40% Off Evaluations + Free Account".
 
@@ -8,7 +8,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 
 - Code: PFD5PC
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
 - Trustpilot: [2.8/5 (292 reviews)](https://www.trustpilot.com/review/dominionfunding.trade)
 - GitHub repository: [Dominion Funding Deals Repository](https://github.com/propfirmdiscounts/dominion-funding-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Dominion Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Dominion Funding deal: Black Friday 40% Off Evaluations + Free Account
+## Latest Dominion Funding deal: Black Friday 40% Off Evaluations + Free Account
 
 - Published: 2026-11-05
 - Offer ends: Limited time
@@ -27,7 +27,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Dominion Funding Deal Page](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/)
 
-## Dominion Funding discount code FAQ
+## Dominion Funding Discount Code & Deals FAQ
 
 **What is the Dominion Funding discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Dominion Funding Deal History
 
 Total deals tracked: **23**
 
@@ -82,7 +82,7 @@ Total deals tracked: **23**
 
 ---
 
-## About this repository
+## About the Dominion Funding Deals Dataset
 
 This repository mirrors every deal **Dominion Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -90,7 +90,7 @@ This repository mirrors every deal **Dominion Funding** has published on PropFir
 - Prop firm profile: [Dominion Funding Profile](https://propfirmdiscount.com/prop-firm/dominion-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/dominion-funding-deals.json`
+## Dominion Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -122,13 +122,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
