@@ -1,6 +1,6 @@
 # Dominion Funding - Discount Codes & Deal History
 
-As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday 40% Off Evaluations + Free Account".
 
 > Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
 >
@@ -11,11 +11,11 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
 - Trustpilot: [2.8/5 (292 reviews)](https://www.trustpilot.com/review/dominionfunding.trade)
-- GitHub repository: [https://github.com/propfirmdiscounts/dominion-funding-deals](https://github.com/propfirmdiscounts/dominion-funding-deals)
-- Activate: [https://propfirmdiscount.com/go/dominionfunding](https://propfirmdiscount.com/go/dominionfunding)
-- Firm page: [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Dominion Funding Deals Repository](https://github.com/propfirmdiscounts/dominion-funding-deals)
+- Activate: [Activate Dominion Funding Discount Code](https://propfirmdiscount.com/go/dominionfunding)
+- Firm page: [Dominion Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/dominion-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Dominion Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Dominion Funding deal: Black Friday 40% Off Evaluations + Free Account
 
@@ -25,7 +25,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Event: Black Friday
 - Scope: All Evaluations, Every Program, Every Platform
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/)
+- Deal page: [Dominion Funding Deal Page](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/)
 
 ## Dominion Funding discount code FAQ
 
@@ -86,9 +86,9 @@ Total deals tracked: **23**
 
 This repository mirrors every deal **Dominion Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Dominion Funding Profile](https://propfirmdiscount.com/prop-firm/dominion-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/dominion-funding-deals.json`
 
@@ -131,4 +131,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
