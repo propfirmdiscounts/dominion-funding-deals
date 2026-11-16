@@ -1,6 +1,6 @@
 # Dominion Funding - Discount Codes & Deal History
 
-As of 2026-11, the verified Dominion Funding discount code is PFD5PC — 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
 >
