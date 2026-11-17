@@ -1,4 +1,4 @@
-# Dominion Funding Discount Code & Deal History
+# Dominion Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday 40% Off Evaluations + Free Account".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
 - Trustpilot: [2.8/5 (292 reviews)](https://www.trustpilot.com/review/dominionfunding.trade)
-- GitHub repository: [Dominion Funding Deals Repository](https://github.com/propfirmdiscounts/dominion-funding-deals)
+- GitHub repository: [Dominion Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/dominion-funding-deals)
 - Activate: [Activate Dominion Funding Discount Code](https://propfirmdiscount.com/go/dominionfunding)
 - Firm page: [Dominion Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/dominion-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -27,7 +27,7 @@ As of November 2026, the verified Dominion Funding discount code is PFD5PC — 5
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Dominion Funding Deal Page](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/)
 
-## Dominion Funding Discount Code & Deals FAQ
+## Dominion Funding Discount Code & Deals History FAQ
 
 **What is the Dominion Funding discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Dominion Funding Deal History
+## Dominion Funding Deals History
 
 Total deals tracked: **23**
 
@@ -52,7 +52,7 @@ Total deals tracked: **23**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-05 | Dominion Funding: Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
-| 2026-10-16 | Dominion Funding: 20% Off Evaluation Account Purchase Costs | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
+| 2026-10-16 | Dominion Funding: 20% Off Evaluation Account Purchase Costs | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) |
 | 2026-10-06 | Dominion Funding: 30% Off All Accounts During Platform Launch | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) |
 | 2026-09-21 | Dominion Funding: 30% Off Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) |
 | 2026-09-02 | Dominion Funding: 35% Off All Accounts Upfront Fee | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) |
@@ -82,7 +82,7 @@ Total deals tracked: **23**
 
 ---
 
-## About the Dominion Funding Deals Dataset
+## About the Dominion Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Dominion Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -90,7 +90,7 @@ This repository mirrors every deal **Dominion Funding** has published on PropFir
 - Prop firm profile: [Dominion Funding Profile](https://propfirmdiscount.com/prop-firm/dominion-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Dominion Funding Deal Dataset: Field Definitions
+## Dominion Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
